@@ -1,6 +1,3 @@
-http://choky-rainbows.000webhostapp.com/login/dangnhap.php
-http://events.af/Virify/inc/ENICC/sus/sms.html
-http://jppost-sso.top/aps.html
-http://jppost-sso.top/ic.html
-http://jppost-sso.top/ih.html
-http://web-sign.account.limited-alertsacconts.artmeansbusiness.co.za/to.php?samyang
+https://ee-billinfo.com/account/index?ac=ee
+https://ee-checkbilling.com/account/index?ac=ee
+https://ee-secure-login.com/login/index.php
